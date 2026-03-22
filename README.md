@@ -35,6 +35,9 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 
 <br>
 
+img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+
+
 - **Cloud Hosting**:
 
   [![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresfercos-cyber)
