@@ -68,3 +68,10 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 
 
   
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+</p>
