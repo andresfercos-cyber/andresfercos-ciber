@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi , I'm ANDRES COSME </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andres Cosme
 =====================================================================================================================================
 
 Web and Multimedia Developer | Dual Degree in Systems | Specialist in Technical Support & AI
