@@ -26,12 +26,12 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 
 **Frontend & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python" />
+  <en construcción/>
 </p>
 
 **Diseño & Multimedia**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
+  <en construcción />
 </p>
 
 <p align="left">
