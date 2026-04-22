@@ -48,13 +48,14 @@ Web and multimedia developer in training (**SENA**). I ​​have 15 years of ex
 </p>
 
 **Tools & Workflow**
-<p align="left">
+<div align="left">
+<p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" width="40" height="40" />
 </p>
-
+</div>
 ---
 
 ### 🤝 Connect with me
